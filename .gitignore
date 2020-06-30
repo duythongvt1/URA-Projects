@@ -6,3 +6,27 @@ CornData/.ipynb_checkpoints/Pandas-checkpoint.ipynb
 *.23
 CornData/Untitled.ipynb
 CornData/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+CornData/demo-env/Lib/site-packages/setuptools/command/launcher manifest.xml
+CornData/demo-env/Lib/site-packages/setuptools/command/saveopts.py
+*.py
+CornData/demo-env/Lib/site-packages/pip-19.2.3.dist-info/METADATA
+*.ini
+*.pyc
+*.exe
+*.txt
+CornData/demo-env/Lib/site-packages/pip-19.2.3.dist-info/INSTALLER
+CornData/demo-env/Lib/site-packages/pip-19.2.3.dist-info/RECORD
+CornData/demo-env/Lib/site-packages/pip-19.2.3.dist-info/WHEEL
+CornData/demo-env/Lib/site-packages/pip/_vendor/certifi/cacert.pem
+*.cfg
+CornData/demo-env/Lib/site-packages/setuptools-41.2.0.dist-info/INSTALLER
+CornData/demo-env/Lib/site-packages/setuptools-41.2.0.dist-info/LICENSE
+CornData/demo-env/Lib/site-packages/setuptools/script.tmpl
+CornData/demo-env/Scripts/activate
+*.bat
+*.ps1
+*.tmpl
+CornData/demo-env/Lib/site-packages/setuptools-41.2.0.dist-info/zip-safe
+CornData/demo-env/Lib/site-packages/setuptools-41.2.0.dist-info/WHEEL
+CornData/demo-env/Lib/site-packages/setuptools-41.2.0.dist-info/RECORD
+CornData/demo-env/Lib/site-packages/setuptools-41.2.0.dist-info/METADATA
